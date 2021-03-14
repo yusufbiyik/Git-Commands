@@ -23,11 +23,11 @@ _A list of my commonly used Git commands_
 
 | Command | Description |
 | ------- | ----------- |
-| `git status` | Check status |
-| `git add [file-name.txt]` | Add a file to the staging area |
-| `git add -A` | Add all new and changed files to the staging area |
-| `git commit -m "[commit message]"` | Commit changes |
-| `git rm -r [file-name.txt]` | Remove a file (or folder) |
+| `git status` | Durumu Kontrol Et |
+| `git add [file-name.txt]` | Aşama alanına bir dosya ekleyin |
+| `git add -A` | Tüm yeni ve değiştirilmiş dosyaları hazırlama alanına ekleyin |
+| `git commit -m "[commit message]"` | Değişiklikleri tamamla |
+| `git rm -r [file-name.txt]` | Bir dosyayı (veya klasörü) kaldırın |
 
 ### Branching & Merging
 
